@@ -1,5 +1,4 @@
- 
-// 根目录 package.json
+
 {
   "name": "vercel-proxy",
   "version": "1.0.0",
