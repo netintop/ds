@@ -1,0 +1,16 @@
+ 
+// 根目录 package.json
+{
+  "name": "vercel-proxy",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^2.6.7"  // 代理需要的依赖
+  },
+  "scripts": {
+    "dev": "vercel dev"     // 本地开发命令
+  },
+  "engines": {
+    "node": "14.x"          // 指定 Node.js 版本
+  }
+}
+ 
